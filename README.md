@@ -94,10 +94,10 @@ To identify inefficiencies and improvement opportunities in UPI transactions by:
 ##  Project Structure
 
 ```plaintext
-📄 Data Analysis.sql                 # SQL scripts for complete analysis
-📄 UPI_Ecosystem_Documentation.pptx # Business findings and insights
-📁 Excel Datasets (external)         # upi_apps.csv, remmiter_banks.csv, benefeciary_banks.csv
-📄 README.md                         # Documentation overview
+ Data Analysis.sql                 # SQL scripts for complete analysis
+ UPI_Ecosystem_Documentation.pptx # Business findings and insights
+ Excel Datasets (external)         # upi_apps.csv, remmiter_banks.csv, benefeciary_banks.csv
+ README.md                         # Documentation overview
 ```
 ---
 
